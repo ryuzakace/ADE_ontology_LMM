@@ -29,7 +29,7 @@ This project focuses on detecting Adverse Drug Reactions (ADR) using a finely tu
 1. Prepare your dataset and ensure it is in the correct format.
 2. Run the fine-tuning script:
     ```bash
-    python finetune_llm.py --data_path path_to_your_data
+    python SFT.py
     ```
 3. Use the trained model to detect ADR:
     ```bash
