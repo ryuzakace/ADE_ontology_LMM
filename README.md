@@ -16,7 +16,7 @@ This project focuses on detecting Adverse Drug Reactions (ADR) using a finely tu
 1. Clone the repository:
     ```bash
     git clone https://github.com/ryuzakace/ADE_ontology_LMM.git
-    cd detecting-adr-ontology-llm
+    cd ADE_ontology_LMM
     ```
 
 2. Install the required packages:
