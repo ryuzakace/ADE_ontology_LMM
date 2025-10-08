@@ -9,7 +9,7 @@ This project focuses on detecting Adverse Drug Reactions (ADR) using a finely tu
 - **Prompt Engineering**: The project includes advanced prompt engineering techniques to optimize the LLM's performance for the specific task of detecting ADR.
 - **Fine-tuned LLM**: We have fine-tuned an open-source 7B LLM to accurately detect ADR, ensuring high precision and recall.
 - **Ontology Integration**: An ontology is used to ground the LLM, providing contextual understanding and enhancing its ability to detect ADR accurately.
-- **High Recall**: The model achieves a recall metric of above 99%, ensuring that almost all relevant ADR cases are detected.
+- **High Recall**: The model achieves a recall metric of above 98%, ensuring that almost all relevant ADR cases are detected.
 
 ## Installation
 
