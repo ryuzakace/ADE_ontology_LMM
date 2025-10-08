@@ -16,7 +16,7 @@ This project focuses on detecting Adverse Drug Reactions (ADR) using a finely tu
 1. Clone the repository:
     ```bash
     git clone https://github.com/ryuzakace/ADE_ontology_LMM.git
-    cd ADE_ontology_LMM
+    cd detecting-adr-ontology-llm
     ```
 
 2. Install the required packages:
@@ -29,7 +29,7 @@ This project focuses on detecting Adverse Drug Reactions (ADR) using a finely tu
 1. Prepare your dataset and ensure it is in the correct format.
 2. Run the fine-tuning script:
     ```bash
-    python SFT.py
+    python finetune_llm.py --data_path path_to_your_data
     ```
 3. Use the trained model to detect ADR:
     ```bash
@@ -42,7 +42,7 @@ Our model achieves a recall metric of over 99%, making it highly reliable for de
 
 ## Authors
 
-Suman Roy, Shirish Bajpai, Srijon Sarkar
+Shirish Bajpai, Suman Roy, VSS Anirudh Sharma
 
 
 ## License
